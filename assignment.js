@@ -1,6 +1,6 @@
 let zackyFavouriteCar = "lamborghini urus 2025";
 function purchaseCar(car){
-    if( car === "lamborghini urus"){
+    if( car === zackyFavouriteCar){
         return "purchase the car";
     } else if ( car === "GLE 450"){
         return "zacky will manage it";
