@@ -1,6 +1,6 @@
-let zackyFavouriteCar = "lambogini urus 2025";
+let zackyFavouriteCar = "lamborghini urus 2025";
 function purchaseCar(car){
-    if( car === "lambogini urus"){
+    if( car === "lamborghini urus"){
         return "purchase the car";
     } else if ( car === "GLE 450"){
         return "zacky will manage it";
@@ -10,5 +10,5 @@ function purchaseCar(car){
 
 }
 
-console.log(purchaseCar("lambogini urus"))
+console.log(purchaseCar(car))
 
